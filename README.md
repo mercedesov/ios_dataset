@@ -1,7 +1,7 @@
 # iOS Market Share Prediction Model
 
 ## Introduction
-This project implements a regression model to predict the iOS market share based on various features related to iPhone users and sales. The model leverages neural networks to learn the relationships in the dataset, providing insights into market dynamics.
+This project implements a regression model to predict the iOS market share based on various features related to iPhone users and sales. The model provides insights into market dynamics.
 
 
 ## Getting Started
