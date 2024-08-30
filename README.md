@@ -35,7 +35,7 @@ Predictions: Displayed alongside actual values for the test set.
 
 ## Model Evaluation
 
-The model's performance is evaluated using the Mean Absolute Error (MAE):  18.687347412109375
+The model's performance is evaluated using the Mean Absolute Error (MAE):  2.022632598876953
 
 ## Results
 
