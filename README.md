@@ -9,8 +9,8 @@ This project implements a regression model to predict the iOS market share based
 To get started with the project, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/mercedesov/iphone_dataset.git`
-`cd iphone_dataset`
+`git clone https://github.com/mercedesov/ios_dataset.git`
+`cd ios_dataset`
 
 2. Install the required dependencies
 
